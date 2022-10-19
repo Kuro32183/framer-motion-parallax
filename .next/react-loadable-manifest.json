@@ -1,0 +1,32 @@
+{
+  "../node_modules/next/dist/client/next-dev.js -> ./dev/noop": {
+    "id": "./node_modules/next/dist/client/dev/noop.js",
+    "files": [
+      "static/chunks/node_modules_next_dist_client_dev_noop_js.js"
+    ]
+  },
+  "index.js -> ../components/FunctionsDesktop": {
+    "id": "./components/FunctionsDesktop.js",
+    "files": [
+      "static/chunks/components_FunctionsDesktop_js.js"
+    ]
+  },
+  "index.js -> ../components/FunctionsMobile": {
+    "id": "./components/FunctionsMobile.js",
+    "files": [
+      "static/chunks/components_FunctionsMobile_js.js"
+    ]
+  },
+  "index.js -> ../components/HeroDesktop": {
+    "id": "./components/HeroDesktop.js",
+    "files": [
+      "static/chunks/components_HeroDesktop_js.js"
+    ]
+  },
+  "index.js -> ../components/HeroMobile": {
+    "id": "./components/HeroMobile.js",
+    "files": [
+      "static/chunks/components_HeroMobile_js.js"
+    ]
+  }
+}
